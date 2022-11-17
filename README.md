@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cecilio Silva Monteiro</h1>
 <h3 align="center">I am a Junior Full-Stack developer based in Rotterdam, The Netherlands</h3>
 
-- 👦🏾 I’m currently working on [TeamSexyFlavors website](https://www.teamsexyflavors.nl/)
+- 👦🏾 I’m currently working on [Front FAANGs](https://www.github.com/CecilioSilva/FrontFAANGs)
 
 - 🌱 I’m currently learning **Hugo, C++ and Unity**
 
