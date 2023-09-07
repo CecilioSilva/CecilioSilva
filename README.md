@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cecilio Silva Monteiro</h1>
 <h3 align="center">I am a Junior Full-Stack developer based in Rotterdam, The Netherlands</h3>
 
-- 👦🏾 I’m currently working on [Front FAANGs](https://www.github.com/CecilioSilva/FrontFAANGs)
+- 👦🏾 I’m currently working on my own startup [Softlio](https://www.softlio.nl)
 
-- 🌱 I’m currently learning **Hugo, C++ and Unity**
+- 🌱 I’m currently learning **Rust, Godot and Svelte**
 
 - 👨‍💻 All of my projects are available at [https://www.ceciliosilva.me/projects](https://www.ceciliosilva.me/projects)
 
